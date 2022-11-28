@@ -14,5 +14,7 @@ int main()
     r = randomnumber(10, 20);
     cout << "Il numero random e': " << r << "\n";
 
+    cout<<"jjjj";
+
     return 0;
 }
